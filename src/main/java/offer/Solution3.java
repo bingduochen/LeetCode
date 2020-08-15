@@ -1,4 +1,4 @@
-package main.offer;
+package offer;
 
 public class Solution3 {
     public int findRepeatNumber(int[] nums) {
